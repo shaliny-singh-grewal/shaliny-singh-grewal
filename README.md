@@ -16,7 +16,7 @@ I am a passionately looking for a Job role on Devops and cloud and I can join im
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,jenkins,terraform,ansible.github,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,jenkins,terraform,ansible,github,docker,devops)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
