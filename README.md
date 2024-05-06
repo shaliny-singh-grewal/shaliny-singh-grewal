@@ -1,7 +1,7 @@
 
 # Hi, I'm Shaliny! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionately looking for a Job role on Devops and cloud and I can join immediately. 
 
 ![shaliny-singh-grewal's Stats](https://github-readme-stats.vercel.app/api?username=shaliny-singh-grewal&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -16,7 +16,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,jenkins,terraform,ansible.github,docker)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
