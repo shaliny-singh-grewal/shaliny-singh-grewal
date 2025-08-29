@@ -7,11 +7,6 @@ I am a passionately looking for a Job role on Devops and cloud and I can join im
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing 
-- 📝 I write in-depth, long-form articles on my website
-- 🌐 Proud member of the contributing to the tech community.
-- ✍️ Content Writer at gearing up to share valuable insights with the global coding community.
-
 ## My Articles
 
 
