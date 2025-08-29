@@ -1,7 +1,7 @@
 
 # Hi, I'm Shaliny! 👋
 
-I am a passionately looking for a Job role on Devops and cloud and I can join immediately. 
+I am holding Cloud and Infra Specialist role on Devops and cloud.
 
 ![shaliny-singh-grewal's Stats](https://github-readme-stats.vercel.app/api?username=shaliny-singh-grewal&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -20,9 +20,6 @@ I am a passionately looking for a Job role on Devops and cloud and I can join im
   -  Working on Devops practices using the tools Jenkins Terraform and Github
 
  ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
 
 ## 📬 Get in Touch
 
